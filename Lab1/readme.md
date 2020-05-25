@@ -4,10 +4,17 @@
 Выводу его содержимое на экран при помощи команды cat.
 ZGFpejZhaFJhZVNhZXhhaWJ1YWYK
 
+
 Задание 2
 
-Использую команду cat ./* для отображения всего
+Использую баш скрипт          for i in /home/suzen/*; do cat $i; done; для нахождения этой части
 dGhlaWxpM2FoWm9odGFpM2VldzMK
+
+
+Задание 3
+Нахожу ключ с помощью построчного чтения файла while read $LINE; do echo $LINE; done <./-diary.txt-; 
+Y284ZWlxdXVlMmllTDNpZXBoNWUK 
+
 
 
 
